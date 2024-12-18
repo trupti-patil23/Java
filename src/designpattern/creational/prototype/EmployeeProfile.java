@@ -1,4 +1,4 @@
-package PrototypeDesignPattern;
+package designpattern.creational.prototype;
 
 public class EmployeeProfile {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package FactoryCreationalDesignPattern;
+package designpattern.creational.factory;
 
 public class Teacher implements Profession {
 

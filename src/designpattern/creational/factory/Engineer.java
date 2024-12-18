@@ -1,4 +1,4 @@
-package FactoryCreationalDesignPattern;
+package designpattern.creational.factory;
 
 public class Engineer implements Profession {
 
